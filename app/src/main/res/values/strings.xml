@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NativeGoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="heatmaps_datasets_array">
+        <item>total</item>
+        <item>japan</item>
+        <item>korea</item>
+        <item>usa</item>
+    </string-array>
+</resources>
